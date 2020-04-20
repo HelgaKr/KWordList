@@ -8,7 +8,7 @@ if you use it for your research.
 In this repository, you can find two files: KWordList_source and KWordList_GUI. The first one contains a raw script that was used in my study, and that can be reused with minor changes (directory, criteria values, etc.). The second one is a beta version of the program with GUI (Graphical User Interface) that may be used in Python and do not require any changes to be done in the code by the user. 
 An executable file for the second version will appear soon here and on the www.topik-tips.com website.
 
-#Description
+# Description
 
 1)	KWordList takes a corpus or corpora in .txt format as an input (all your files should be in one directory). 
 2)	KWordList deletes all non-Korean symbols from the uploaded corpus to allow accurate word counting.
@@ -30,7 +30,7 @@ Note: To open your .csv file, please open a blank notebook in your Microsoft Ofi
 
 Please note: that some extra features are planned to be added soon.
 
-#References
+# References
 
 Bird, S., & Loper, E. (2009). Natural Language Processing with Python. Natural Language Processing with Python. O’Reilly Media Inc.
 Gries, S. T. (2008). Dispersions and adjusted frequencies in corpora. International Journal of Corpus Linguistics, 13(4), 403–437.
