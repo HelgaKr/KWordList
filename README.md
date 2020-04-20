@@ -32,10 +32,14 @@ Please note: that some extra features are planned to be added soon.
 
 # References
 
-Bird, S., & Loper, E. (2009). Natural Language Processing with Python. Natural Language Processing with Python. O’Reilly Media Inc.
+Bird, S., & Loper, E. (2009). Natural Language Processing with Python. O’Reilly Media Inc.
+
 Gries, S. T. (2008). Dispersions and adjusted frequencies in corpora. International Journal of Corpus Linguistics, 13(4), 403–437.
+
 Jo, N. (2003). Hangugeo hakseubyong eohwi seonjeong gyeolgwa bogoseo [Report on the results of vocabulary selction for learners of Korean]. Seoul: National Institute of Korean Language.
+
 Park, E. L., & Cho, S. (2014). KoNLPy: Korean natural language processing in Python. In Proceedings of the 26th Annual Conference on Human & Cognitive Language Technology. Chuncheon.
+
 Shin, M. (2004). Gugeo sagodogueo gyoyung yeongu [A study on Korean academic vocabulary education]. Seoul National University.
 
 
